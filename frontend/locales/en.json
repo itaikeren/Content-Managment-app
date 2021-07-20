@@ -1,0 +1,55 @@
+{
+  "dashboard": {
+    "welcomeSts": "Welcome to our dashboard! On this page, you will be able to view all the online pages, edit each one of them and even add new ones!",
+    "addPage": "Add new page"
+  },
+  "nav": {
+    "dashboard": {
+      "name": "Dashboard",
+      "title": "Dashboard"
+    },
+    "github": {
+      "name": "Github"
+    }
+  },
+  "list": {
+    "name": "name",
+    "url": "url",
+    "description": "description",
+    "screenshot": "screenshot",
+    "textResource": "text resource",
+    "edit": "Edit",
+    "remove": "Remove",
+    "clickHere": "Click here",
+    "areYouSure": "Are you sure?",
+    "search": "Search by page name..."
+  },
+  "modal": {
+    "title": "Page details",
+    "description": "Here you can edit your page details and edit the text resources of that page.",
+    "pageName": "Page name",
+    "pageDesc": "Page description",
+    "pageImage": "Page image",
+    "btnSave": "Save changes",
+    "btnEdit": "Edit Text Resources"
+  },
+  "trModal": {
+    "titleAll": "View all Text Resources",
+    "titleEdit": "Edit a Text Resource",
+    "titleAdd": "Add new Text Resource",
+    "descriptionAll": "Here you can view and edit all the text resources of the page and add new ones",
+    "descriptionEdit": "Update the values you want and click on the save changes button",
+    "descriptionAdd": "Fill the values and click on the add button",
+    "editBtn": "Edit",
+    "addNewBtn": "Add new",
+    "key": "Key",
+    "value": "Value",
+    "type": "Type",
+    "maxChar": "Maximum Chars",
+    "multiLine": "Multi line",
+    "saveBtn": "Save changes",
+    "removeBtn": "Remove",
+    "addBtn": "Add",
+    "areYouSure": "Are you sure?"
+  }
+}

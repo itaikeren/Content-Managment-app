@@ -1,0 +1,55 @@
+{
+  "dashboard": {
+    "welcomeSts": "Bienvenue sur notre tableau de bord ! Sur cette page, vous pourrez voir toutes les pages en ligne, éditer chacune d'entre elles et même en ajouter de nouvelles !",
+    "addPage": "Ajouter une nouvelle page"
+  },
+  "nav": {
+    "dashboard": {
+      "name": "Tableau de bord",
+      "title": "Tableau de bord"
+    },
+    "github": {
+      "name": "Github"
+    }
+  },
+  "list": {
+    "name": "nom",
+    "url": "url",
+    "description": "la description",
+    "screenshot": "capture d'écran",
+    "textResource": "ressource texte",
+    "edit": "Éditer",
+    "remove": "supprimer",
+    "clickHere": "Cliquez ici",
+    "areYouSure": "Êtes-vous sûr ?",
+    "search": "Recherche par nom de page..."
+  },
+  "modal": {
+    "title": "Détails de la page",
+    "description": "Ici, vous pouvez modifier les détails de votre page et modifier les ressources textuelles de cette page.",
+    "pageName": "Nom de la page",
+    "pageDesc": "Description de la page",
+    "pageImage": "Image de la page",
+    "btnSave": "Sauvegarder les modifications",
+    "btnEdit": "Modifier les ressources textuelles"
+  },
+  "trModal": {
+    "titleAll": "Afficher toutes les ressources de texte",
+    "titleEdit": "Modifier une ressource texte",
+    "titleAdd": "Ajouter une nouvelle ressource texte",
+    "descriptionAll": "Ici, vous pouvez afficher et éditer toutes les ressources textuelles de la page et en ajouter de nouvelles",
+    "descriptionEdit": "Mettre à jour les valeurs souhaitées et cliquer sur le bouton enregistrer les modifications",
+    "descriptionAdd": "Remplissez les valeurs et cliquez sur le bouton ajouter",
+    "editBtn": "Modifier",
+    "addNewBtn": "Ajouter un nouveau",
+    "key": "Clé",
+    "value": "Valeur",
+    "type": "Tapez",
+    "maxChar": "Maximum de caractères",
+    "multiLine": "Multi ligne",
+    "saveBtn": "Enregistrer les modifications",
+    "removeBtn": "Supprimer",
+    "addBtn": "Ajouter",
+    "areYouSure": "Êtes-vous sûr ?"
+  }
+}
